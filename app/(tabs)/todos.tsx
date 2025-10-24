@@ -25,7 +25,7 @@ export default function TabTwoScreen() {
         <ThemedText type="title">Todos</ThemedText>
       </ThemedView>
       <ThemedText>
-        This app includes example code to help you get started.
+        This app includes example code to help you get started. Gadam bet
       </ThemedText>
       <Collapsible title="File-based routing">
         <ThemedText>
